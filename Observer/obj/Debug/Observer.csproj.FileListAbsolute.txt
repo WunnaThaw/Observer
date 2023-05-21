@@ -1,0 +1,9 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Observer\Observer\bin\Debug\Observer.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Observer\Observer\bin\Debug\Observer.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Observer\Observer\bin\Debug\Observer.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Observer\Observer\obj\Debug\Observer.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Observer\Observer\obj\Debug\Observer.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Observer\Observer\bin\Debug\Observer.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Observer\Observer\obj\Debug\Observer.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Observer\Observer\obj\Debug\Observer.pdb
